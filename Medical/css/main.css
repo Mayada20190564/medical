@@ -1,0 +1,434 @@
+section {
+    height: auto;
+    width: 100%;
+}
+
+/* .stars i{
+    color: green;
+} */
+.h {
+    width: 100%;
+    height: auto;
+    background-image: url("/medical/img/homeBg.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(23, 32, 42, 0.4);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.caption {
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+
+.caption h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+
+.caption h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.caption p {
+    color: white;
+    padding-bottom: 30px;
+}
+
+.login {
+    background-color: white;
+    color: #34495E;
+    width: 100px;
+    height: 40px;
+    font-weight: 600;
+}
+
+.signUp {
+    background-color: #34495E;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-weight: 600;
+}
+
+.dep {
+    background-color: #34495E;
+    color: white;
+    width: auto;
+    height: 40px;
+    font-weight: 600;
+}
+
+.end {
+    padding-top: 50px;
+}
+
+.f {
+    padding-top: 50px;
+}
+
+.footer {
+    background-color: #2E4053;
+    width: 100%;
+    height: auto;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.footer h3,
+p {
+    color: white;
+}
+
+.icons i {
+    color: white;
+    font-size: 25px;
+    margin: 10px 10px;
+}
+
+.links {
+    padding-bottom: 30px;
+}
+
+.links li {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    list-style-type: none;
+    color: white;
+}
+
+.endLine {
+    width: 100%;
+    height: 1px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+.about {
+    background-color: #CCD1D1;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.card1 {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/bg1.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(74, 35, 90, 0.4);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+}
+
+.card2 {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/bg2.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.4);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+}
+
+.card3 {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/bg3.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(21, 67, 96, 0.4);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+}
+
+.signCard {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.card-body {
+    border-radius: 20px;
+    border: solid #34495E 5px;
+}
+
+.signCard h2 {
+    color: rgb(23, 32, 42, );
+    font-family: cursive;
+}
+
+.spec {
+
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/* ========================================================== */
+.skin {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/skin.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+}
+
+.dental {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/teeth.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+}
+
+.child {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/child.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+}
+
+.eye {
+
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/eye.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+
+}
+
+.heart {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/heart.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+}
+
+.mental {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/mental.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+}
+
+.brain {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/brain.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+}
+
+.bones {
+    width: 100%;
+    height: 30vh;
+    background-image: url("/medical/img/bones.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.3);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 20px 0px;
+    border-radius: 10px;
+}
+
+.Dcard {
+    padding-top: 100px;
+    background-color: #E5E8E8;
+    /* padding-bottom: 50px; */
+}
+
+.Dcard .container {
+    /* border: white 2px solid;
+    border-radius: 10px;
+    box-shadow: #AEB6BF 10px 10px;
+    box-shadow:inset 0 0 0 2000px rgba(41, 128, 185, 0.5);
+    color: white;
+    position: relative;
+    background-color: white;
+    padding: 30px 30px; */
+    color: white;
+    border: white 2px solid;
+    border-radius: 10px;
+    position: relative;
+    background-image: url("/medical/img/bg1.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(41, 128, 185, 0.5);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    padding: 30px 30px;
+}
+
+.Dcard .imgcard img {
+    height: 150px;
+    border: black solid 2px;
+    border-radius: 20px;
+}
+
+.books {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.book {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border: black solid 3px;
+    padding: 30px 20px;
+}
+
+.endLine2 {
+    width: 90%;
+    height: 2px;
+    background-color: gray;
+    margin: 20px 0px;
+}
+
+.bookTable {
+    margin-top: 200px;
+}
+
+.scroll {
+    background-color: #34495E;
+    position: fixed;
+    bottom: 15px;
+    right: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.hide {
+    display: none;
+}
+
+
+/* ===================================== */
+.client-ask{
+    padding-top: 100px;
+    border: solid teal 2px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    padding-left: 50px;
+    border-radius: 20px;
+}
+.blank{
+    height: 60vh;
+   
+}
+.res{
+    width: 100%;
+    bottom: 26px;
+    right: 10px;
+}
+.res form{
+    width: 100%;
+}
+.res button{
+    background-color: teal;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 12px;
+    border: none;
+    display: inline;
+}
+.send{
+    color: steelblue;
+    font-size: 20px;
+}
+.type{
+    border: 1px solid teal;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.res form textarea{
+    width: 100%;
+    height: 100%;
+    bottom: 3px;
+    border: none;
+    overflow: hidden;
+}
+.ask {
+  height: 50vh;
+    bottom: 3px;
+    width: 100%;
+    overflow-y: scroll;
+    padding-right: 20px;
+}
+.ask ul{
+   list-style: none; 
+}
+.me{
+    width: 100%;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+   align-items: flex-start;
+}
+.me div, .response div{
+    border: solid #34495E 1px;
+    border-radius: 10px;
+    width: auto;
+    padding: 0px 5px;
+    margin: 10px 2px;
+}
+.me div{
+    border: solid #34495E 1px;
+    border-radius: 10px;
+    width: auto;
+    padding: 0px 5px;
+    margin: 10px 2px;
+    background-color: teal;
+}
+.me div p{
+    color: white;
+}
+.response div p{
+    color: black;
+}
+.response{
+    width: 100%;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+   align-items: flex-end;
+}

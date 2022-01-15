@@ -1,0 +1,107 @@
+.doc-img {
+    height: 70px;
+}
+.nav-header h2{
+    color: white;
+    font-weight: 800;
+}
+
+.t a {
+    color: steelblue;
+    font-weight: 700;
+}
+
+.t .del {
+    color: red;
+    font-weight: 700;
+}
+section {
+    height: auto;
+    width: 100%;
+}
+.caption {
+    padding-top: 150px;
+    padding-bottom: 100px;
+    margin: auto;
+}
+.signCard {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.h .card-body {
+    border-radius: 20px;
+    border: solid #34495E 5px;
+    
+    color: white;
+}
+.signCard h2 {
+    color: white;
+    font-family: cursive;
+}
+.h {
+    width: 100%;
+    height: auto;
+    background-image: url("/medical-admin/images/homeBg.jpg");
+    box-shadow: inset 0 0 0 2000px rgba(23, 32, 42, 0.6);
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.blank{
+    height: 60vh;
+}
+.res{
+    width: 100%;
+    bottom: 26px;
+    right: 10px;
+}
+.res form{
+    width: 100%;
+}
+.res button{
+    background-color: transparent;
+    border: none;
+    display: inline;
+}
+.send{
+    color: steelblue;
+    font-size: 20px;
+}
+.type{
+    border: 1px solid teal;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+.res form textarea{
+    width: 100%;
+    height: 100%;
+    bottom: 3px;
+    border: none;
+    overflow: hidden;
+}
+.ask {
+  
+    bottom: 3px;
+    width: 100%;
+}
+.me{
+    width: 100%;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+   align-items: flex-start;
+}
+.me div, .response div{
+    border: solid #34495E 1px;
+    border-radius: 10px;
+    width: auto;
+    padding: 0px 5px;
+    margin: 10px 2px;
+}
+.response{
+    width: 100%;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+   align-items: flex-end;
+}
